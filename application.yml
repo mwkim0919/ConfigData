@@ -22,7 +22,7 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: minwoo,minwoo,minwoo,minwoo,minwoo
 
 ---
 spring:
