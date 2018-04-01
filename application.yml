@@ -22,7 +22,7 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: minwoo,minwoo,minwoo,minwoo,minwoo
+words: adjective,adjective,adjective,adjective,adjective
 
 ---
 spring:
