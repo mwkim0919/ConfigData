@@ -22,7 +22,7 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: cool,good,positive,nice,super,bad,terrible
+words: cool,good,positive,nice,super
 
 ---
 spring:
